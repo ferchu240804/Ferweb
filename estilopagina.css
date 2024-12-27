@@ -5,7 +5,7 @@ body{
     /* background-position: center; Centra la imagen */
     /* margin: 0; Elimina márgenes para evitar espacios en blanco */ 
     background: url(images.png) center center/cover no-repeat; 
-    background-image: url(cuadro\ 7.0.png);
+    background-image: url(cuadro7.png);
 }
 
 
