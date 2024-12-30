@@ -72,6 +72,30 @@ h2{
  }
 
 
+ /* Ajuste global de los inputs */
+input {
+    font-size: 1em; /* Reduce el tamaño del texto dentro del input */
+    padding: 5px 10px; /* Da algo de espacio interior para mejorar la visualización */
+    width: 450px; /* Ancho más pequeño para los campos de texto */
+    margin-bottom: 1px; /* Añade algo de espacio entre los campos */
+}
+
+/* Hacer los botones más pequeños */
+button {
+    font-size: 1em; /* Reducir el tamaño del texto en el botón */
+    padding: 5px 10px; /* Reducir el espacio interior del botón */
+    cursor: pointer; /* Cambia el cursor para indicar que es clickeable */
+    width: 150px; /* Ancho fijo para los botones */
+    margin-top: 10px; /* Espacio entre botones */
+}
+
+/* Ajustar el tamaño de las etiquetas (labels) */
+label {
+    font-size: 1em; /* Reducir el tamaño de las etiquetas */
+    font-weight: normal; /* Hacer la fuente normal (no tan gruesa) */
+}
+
+
 
 
 
